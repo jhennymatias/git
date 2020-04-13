@@ -1,4 +1,6 @@
-# git
+# git comands
+
+git init                    - cria um repositório Git vazio 
 
 git status						      - diz como está o diretorio
 
